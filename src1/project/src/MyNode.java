@@ -14,6 +14,7 @@ public class MyNode {
   private MyNode left;
   private MyNode right;
   private int vv;
+  private int alal;
 
   /**
    * Class constructor initializing this node's value.
