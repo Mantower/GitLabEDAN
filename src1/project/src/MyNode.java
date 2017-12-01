@@ -6,7 +6,7 @@ package tree;
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  * Added som text.
- * @author Torbjorn Ekman
+ * @author Torbjorn Ekman.
  * @see MyTree
  */ Adding some changes
  * 2 + 2 = 4 - 1 that's 3 quik maths
