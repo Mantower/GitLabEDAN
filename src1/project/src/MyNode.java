@@ -2,7 +2,7 @@ package tree;
 // Adding "Man's not hot"
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- *
+ * Added som text.
  * @author Torbjorn Ekman
  * @see MyTree
  */
