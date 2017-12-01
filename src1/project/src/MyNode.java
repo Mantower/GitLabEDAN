@@ -5,7 +5,7 @@ package tree;
  * Added som text.
  * @author Torbjorn Ekman
  * @see MyTree
- */
+ */ Adding some changes
 public class MyNode {
   private MyNode father;
   private MyNode left;
