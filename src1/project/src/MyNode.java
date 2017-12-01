@@ -9,6 +9,7 @@ package tree;
  * @author Torbjorn Ekman
  * @see MyTree
  */ Adding some changes
+ * 2 + 2 = 4 - 1 that's 3 quik maths
 public class MyNode {
   private MyNode father;
   private MyNode left;
