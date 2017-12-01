@@ -1,5 +1,8 @@
 package tree;
 // Adding "Man's not hot"
+// Added a small line here as well
+
+
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
