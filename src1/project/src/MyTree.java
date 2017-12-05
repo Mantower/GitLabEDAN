@@ -1,5 +1,5 @@
 package tree;
-
+// Hoj
 import tree.MyNode;
 
 /**
@@ -78,4 +78,3 @@ public class MyTree {
     return root.calcSize();
   }
 }
-
