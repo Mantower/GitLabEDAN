@@ -1,5 +1,5 @@
 package tree;
-// Hoj
+// Hojx
 import tree.MyNode;
 
 /**
@@ -22,8 +22,9 @@ public class MyTree {
    *
    * @return Reference to the root node.
    */
-  public MyNode getRoot() {
-    return root;
+  public String getRoot() {
+    String person = "Bendix";
+    return person;
   }
 
   /**
